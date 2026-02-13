@@ -48,7 +48,8 @@ export default function App() {
             Thank You ❤️
           </h1>
           <p className="text-lg text-gray-700">
-            Thank you for saying yes. It would truly be my pleasure to celebrate Valentine’s Day with you. I look forward to spending a meaningful and memorable day together.
+            You make life brighter and happier every single day.
+            I’m grateful for you more than words can say.
           </p>
         </div>
       </div>
@@ -59,7 +60,7 @@ export default function App() {
     <div className="h-screen w-screen flex items-center justify-center bg-pink-50 relative overflow-hidden">
       <div className="flex flex-col items-center justify-center text-center gap-8">
         <img
-          src="src="/Frame 183.jpg""
+          src="https://images.unsplash.com/photo-1518199266791-5375a83190b7"
           alt="Valentine"
           className="w-56 h-56 object-cover rounded-2xl shadow-xl"
         />
