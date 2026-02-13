@@ -297,7 +297,7 @@ export default function App() {
 
       <div className="flex flex-col items-center justify-center text-center gap-8 z-10">
         <img
-          src="/Frame 183.png"
+          src="/Frame183.png"
           alt="Valentine"
           className="w-56 h-56 object-cover rounded-2xl shadow-xl"
         />
