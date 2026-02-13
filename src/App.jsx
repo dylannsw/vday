@@ -303,7 +303,8 @@ export default function App() {
         />
 
         <h1 className="text-3xl md:text-4xl font-bold text-pink-600">
-          Dear Yee Xuean Ng. Would you be my Valentine?
+        Dear Yee Xuean Ng,<br />
+        would you be my Valentine?
         </h1>
 
         <div className="flex gap-6 items-center justify-center">
