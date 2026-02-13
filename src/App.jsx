@@ -245,7 +245,7 @@ export default function App() {
 
         <div className="text-center max-w-xl px-6 z-10 backdrop-blur-[2px]">
           <h1 className="text-4xl font-bold mb-6 text-pink-600 drop-shadow-[0_3px_12px_rgba(0,0,0,0.35)]">
-            Thank You ❤️
+            I look forward to our shared day.
           </h1>
           <p className="text-lg text-gray-700 mb-8 drop-shadow-[0_2px_8px_rgba(0,0,0,0.3)]">
             {typedYesMessage || " "}
