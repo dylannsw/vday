@@ -48,8 +48,7 @@ export default function App() {
             Thank You ❤️
           </h1>
           <p className="text-lg text-gray-700">
-            You make life brighter and happier every single day.
-            I’m grateful for you more than words can say.
+            Thank you for saying yes. It would truly be my pleasure to celebrate Valentine’s Day with you. I look forward to spending a meaningful and memorable day together.
           </p>
         </div>
       </div>
