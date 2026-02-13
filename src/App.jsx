@@ -299,7 +299,7 @@ export default function App() {
         <img
           src={`${import.meta.env.BASE_URL}Frame183.png`}
           alt="Valentine"
-          className="w-56 h-56 object-cover rounded-2xl shadow-xl"
+          className="w-56 h-auto object-contain rounded-2xl shadow-xl"
         />
 
         <h1 className="text-3xl md:text-4xl font-bold text-pink-600">
